@@ -1,1 +1,14 @@
-Prova
+# Nel materiale extra troviamo:
+- Modello finale CAD nella cartella“Modello”
+- Tutte le immagini inserite
+- File di considerazioni sui pistoni estratto dal catalogo
+- Brevetto citato
+- Catalogo di riferimento
+- Dati delle simulazioni sia in file .csv che il foglio di lavoro
+- Simulazione finale su cui abbiamo effettuato tutti i testi principali (simulazione 5)
+- Vecchie versioni di progetto e/o simulazione nella cartella “Old”
+- Bozza 3D di lavoro e codice MATLAB citati
+- Dati grezzi e fogli di lavoro per l’inclinometro
+- Foglio di lavoro con le forze misurate
+- File di lavoro per la misura delle rotazioni
+- Registra schermo delle simulazioni così da includere movimento e grafici
