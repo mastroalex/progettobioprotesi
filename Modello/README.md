@@ -5,7 +5,7 @@
 ![alt text](https://github.com/mastroalex/progettobioprotesi/blob/main/File%20extra/File%20per%20relazione/M1.JPG)
 > Fig. 47 – Vista frontale
 
-![alt text](https://github.com/mastroalex/progettobioprotesi/blob/main/File%20extra/File%20per%20relazione/M2.JPG)
+![alt text]https://github.com/mastroalex/progettobioprotesi/blob/main/File%20extra/File%20per%20relazione/M2.JPG)
 > Fig. 48 – Vista superiore
 
 ![alt text](https://github.com/mastroalex/progettobioprotesi/blob/main/File%20extra/File%20per%20relazione/M3.JPG)
