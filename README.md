@@ -166,6 +166,10 @@ Per la scelta dei pistoni abbiamo consultato il catalogo dell’azienda Stabilus
 
 <img style="background-color:red;" src="https://render.githubusercontent.com/render/math?math=F\left(l\right)=F_R+F_1+\left.\frac{F_1\left(x-1\right)}{l_{max}}\right.l   (1)"  >
 
+```tex
+F\left(l\right)=F_R+F_1+\left.\frac{F_1\left(x-1\right)}{l_{max}}\right.l   (1)
+```
+
 Questa formula è stata ottenuta considerando i valori forniti da catalogo:
 
 
