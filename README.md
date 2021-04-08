@@ -16,7 +16,6 @@ In questa relazione è presente anche un attento studio ai materiali e come ques
 
 ## Indice 
 
-  * [Indice](#indice)
   * [Introduzione](#introduzione)
   * [Misure e valutazioni iniziali](#misure-e-valutazioni-iniziali)
     + [Cinematica della caviglia](#cinematica-della-caviglia)
