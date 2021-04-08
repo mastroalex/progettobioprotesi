@@ -164,7 +164,7 @@ Queste considerazioni geometriche ci hanno aiutato a vincolare le escursioni dei
 Per la scelta dei pistoni abbiamo consultato il catalogo dell’azienda Stabilus © optando per la serie di molle a gas “LIFT-O-MAT” nella serie “Inox Line” in acciaio inossidabile [23].
 È stata valutata l’espressione della forza in compressione/estensione riformulando quanto dichiarato dall’azienda come la legge elastica:
 
-<img src="https://render.githubusercontent.com/render/math?math=F\left(l\right)=F_R+F_1+\left.\frac{F_1\left(x-1\right)}{l_{max}}\right.l   (1)" style="background-color:#33475b" >
+<img src="https://render.githubusercontent.com/render/math?math=F\left(l\right)=F_R+F_1+\left.\frac{F_1\left(x-1\right)}{l_{max}}\right.l   (1)" style="background-color:red;" >
 
 Questa formula è stata ottenuta considerando i valori forniti da catalogo:
 
