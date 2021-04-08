@@ -152,6 +152,21 @@ Discorso analogo per le forze/coppie misurate.
 
 ## Progetto
 
+### Considerazioni iniziali
+
+Per dimensionare la pedana si è tenuto conto di diversi aspetti. 
+È stato implementato un codice MATLAB © che ci permettesse di considerare la curva di carico dei pistoni e loro inclinazione per calcolare la risultante a rotazione intorno agli assi solidali alla pedana in modo da minimizzarla.
+Essendo il problema con infinite soluzioni e troppe incognite per un calcolo puramente numerico sono stati considerati altri fattori come la comodità dell’utilizzatore e una dimensione complessiva tale da rendere l’oggetto abbastanza contenuto e trasportabile ma allo stesso tempo sufficientemente stabile e robusto. Queste considerazioni ci hanno fatto optare per una posizione di riposo con un’inclinazione della pedana di circa 30° e l’idea di rimanere con delle dimensioni della base non superiori ai 70cm x 50cm. Le stesse considerazioni ci hanno fatto optare per una disposizione dei pistoni laterali simmetrica e una disposizione del pistone centrale sul piano xz.
+Queste considerazioni geometriche ci hanno aiutato a vincolare le escursioni dei pistoni e quindi la loro inclinazione (ulteriori considerazioni sono state fatte nei paragrafi seguenti).
+
+### Scelta dei pistoni
+
+Per la scelta dei pistoni abbiamo consultato il catalogo dell’azienda Stabilus © optando per la serie di molle a gas “LIFT-O-MAT” nella serie “Inox Line” in acciaio inossidabile [23].
+È stata valutata l’espressione della forza in compressione/estensione riformulando quanto dichiarato dall’azienda come la legge elastica:
+<img src="https://render.githubusercontent.com/render/math?math=F\left(l\right)=F_R+F_1+\left.\frac{F_1\left(x-1\right)}{l_{max}}\right.l   (1)">
+
+
+
 <img src="https://render.githubusercontent.com/render/math?math=F\left(l\right)=F_1+F_R+ml">
 
 
