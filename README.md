@@ -16,11 +16,12 @@ Il dispositivo si compone principalmente delle seguenti parti:
 - braccio di supporto 
 - pedana
 - apparati resistivi
+
 La base è la componente che fornisce stabilità al dispositivo e durante l’utilizzo sarà poggiata a terra. Collegato alla base abbiamo il braccio di supporto che si estende ortogonalmente per il primo tratto dalla base per poi portarsi verso il centro di questa, ad una determinata quota dalla base. All’estremità di questo troveremo una estensione che la collega a una sfera. Quest’ultimo elemento sarà essenziale per la composizione del “ball and socket joint” che permetterà alla pedana di ruotare per creare i movimenti cardine della riabilitazione.
 Sulla suddetta pedana il paziente potrà poggiare il piede la cui caviglia necessita esercizio. Al di sotto di questa pedana troviamo il socket, una cavità che permette di accogliere la sfera citata prima. Questa cavità coprirà la sfera in modo tale da bloccare le traslazioni relative tra braccio di supporto e pedana. Sarà modellata in modo tale da permettere la rotazione della sfera entro certi limiti, aspetto che discuteremo successivamente.
 Questo giunto appena descritto quindi collega il braccio di supporto e la pedana, permettendone le rotazioni relative. Considerato come il braccio di supporto sia ancorato alla base sarà quindi possibile immaginare la pedana sollevata da terra e libera di ruotare.
 
-<img src="" alt="Fig1" width="500">
+<img src="/img_relazione/1.png" alt="Fig1" width="500">
 
 Alla stessa pedana sono anche collegati quelli che il brevetto definisce come “resistive means”, ossia congegni capaci di opporre resistenza ad allungamento ed accorciamento. Questi congegni collegheranno direttamente la pedana alla base, con l’obiettivo di opporre resistenza, elemento fondamentale della riabilitazione.
 Facendo riferimento alle normative ISO 20957-1 per le attrezzature da allenamento e la normativa ISO 14971 per la gestione del rischio per i dispostivi medicali abbiamo cercato di focalizzaci su un dispositivo semplice e con bassi costi di produzione e manutenzione che garantisse un certo comfort all’utilizzatore ma che al contempo fosse stabile durante il movimento e riducesse al minimo la possibilità di ulteriori infortuni. Essendo un dispositivo di
