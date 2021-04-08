@@ -13,6 +13,38 @@ In questa relazione è presente anche un attento studio ai materiali e come ques
 
 ## Indice 
 
+- [progettobioprotesi](#progettobioprotesi)
+  * [Indice](#indice)
+  * [Introduzione](#introduzione)
+  * [Misure e valutazioni iniziali](#misure-e-valutazioni-iniziali)
+    + [Cinematica della caviglia](#cinematica-della-caviglia)
+    + [Misure strumentali](#misure-strumentali)
+    + [Valutazioni al calcolatore](#valutazioni-al-calcolatore)
+  * [Progetto](#progetto)
+    + [Considerazioni iniziali](#considerazioni-iniziali)
+    + [Scelta dei pistoni](#scelta-dei-pistoni)
+    + [Scelta delle dimensioni e disegno dei componenti](#scelta-delle-dimensioni-e-disegno-dei-componenti)
+    + [Il giunto sferico](#il-giunto-sferico)
+    + [La pedana](#la-pedana)
+    + [Il braccio di supporto](#il-braccio-di-supporto)
+    + [La base](#la-base)
+    + [Il cappuccio (piastrina di accoppiamento)](#il-cappuccio--piastrina-di-accoppiamento-)
+    + [I pistoni](#i-pistoni)
+    + [Materiali](#materiali)
+    + [Altri componenti](#altri-componenti)
+  * [Simulazioni](#simulazioni)
+    + [Flessione](#flessione)
+    + [Rotazione](#rotazione)
+    + [Eversione/inversione](#eversione-inversione)
+    + [Pitch + roll](#pitch---roll)
+    + [Un’ulteriore conferma](#un-ulteriore-conferma)
+    + [Condizione di riposo](#condizione-di-riposo)
+  * [Dettagli](#dettagli)
+  * [Conclusioni e possibili sviluppi](#conclusioni-e-possibili-sviluppi)
+  * [Materiale supplementare](#materiale-supplementare)
+  * [Opere citate](#opere-citate)
+  * [Indice delle figure](#indice-delle-figure)
+  * [Figure extra](#figure-extra)
 
 ## Introduzione 
 
